@@ -51,7 +51,7 @@ body{
     margin-top: 100px;
 }
 .about-me p{
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     color: rgb(167, 163, 163);
     font-size: 20px;
     text-align: justify;
@@ -70,3 +70,43 @@ body{
     background-image: url(images/shapes/7.png);
     margin-left: -20px;
 }
+.section-recipies{
+    margin-top: -150px;
+}
+.recipies{
+    text-align: center;
+    margin: 0 300px;
+    color: rgb(92, 89, 89);
+   
+}
+.recipies h2{
+    font-size: 35px;
+    color: rgb(88, 86, 86);
+    padding-bottom: 20px;
+}
+.recipies p{
+    color: rgb(92, 89, 89);
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.box-section{
+    display: flex;
+    
+
+    
+}
+.half-width-box{
+    width: 100%;
+    margin: 10px 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    padding: 50px;
+
+}
+.half-width-box img {
+    width: 80%;
+    margin-left: 50px;
+    
+}
+
+    
