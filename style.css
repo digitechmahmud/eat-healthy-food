@@ -12,7 +12,7 @@ body{
     display: flex;
     margin-left: 100px;
     margin-top: 50px;
-    margin-bottom: 200px;
+    margin-bottom: 220px;
     color: rgb(92, 89, 89);
     
 }
@@ -34,14 +34,16 @@ body{
 }
 .half-width{
     width: 50%;
+    padding-top: 50px;
 }
 .top-button{
-    background-color: tomato;
+    background-image: linear-gradient(orange, tomato);
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 20px;
     font-weight: 700;
     color: white;
+    font-weight: 400;
 }
 .about-me h2{
     font-size: 35px;
